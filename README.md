@@ -31,4 +31,4 @@ The output will be generated in a folder named `output` inside hdfs. Copy the `o
 ```
 hdfs dfs -get /output desired_local_directory
 ```
-All the `.json` files are the outputs.
+All the `.json` files are outputs.
