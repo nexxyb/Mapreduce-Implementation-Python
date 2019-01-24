@@ -1,5 +1,5 @@
 # Mapreduce Implementation in Python
-This is a python implementation of mapreduce paradigm. This project uses two files, `companies.csv` and `accounts.csv`, to produce distinct `.json` files for each company information.
+This project uses two files, `companies.csv` and `accounts.csv`, to produce distinct `.json` files for each company information.
 ## Installation
 This project is supposed to run with [Apache hadoop](https://hadoop.apache.org). To run this project, install hadoop first. You can install it using [Homebrew](https://brew.sh/). Run this command:
 ```
